@@ -15,7 +15,7 @@
 - `puzzle.py`: Task 2 version with a replacement compound clue.
 - `mastermind.py`: original example file.
 - `knights.py`: Knights and Knaves Puzzles 0–3, including the bonus.
-- `Lab3_Report.docx`: lab report with explanations and screenshots.
+- `Lab3_Report.pdf`: lab report with explanations and screenshots.
 
 ## How to run
 Install Python 3, then run these commands from the project folder:
